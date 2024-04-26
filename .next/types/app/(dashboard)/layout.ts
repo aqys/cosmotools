@@ -1,4 +1,4 @@
-// File: C:\Users\mikke\OneDrive\Skrivebord\astral\app\(dashboard)\layout.tsx
+// File: C:\Users\mikke\OneDrive\Skrivebord\cosmo\app\(dashboard)\layout.tsx
 import * as entry from '../../../../app/(dashboard)/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

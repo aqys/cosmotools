@@ -1,4 +1,3 @@
-import { astral } from "@clerk/themes"
 import type { Config } from "tailwindcss"
 
 const config = {
