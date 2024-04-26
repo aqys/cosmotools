@@ -37,6 +37,7 @@ const config = {
           'light': '#464589',
           'alt': '#262569',
           '40': 'rgba(45, 45, 51, 0.25)', // 40% opacity
+          '10': 'rgba(45, 45, 51, 0.1)', // 10% opacity
         },
         'black-astral': {
           DEFAULT: '#121212',
@@ -95,7 +96,6 @@ const config = {
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
-        "astral-anim": 'spin 5s 0s infinite, pulse 1s 1s infinite',
       },
     },
   },
